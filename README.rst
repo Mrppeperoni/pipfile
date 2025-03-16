@@ -1,4 +1,4 @@
-Pipfile: the replacement for `requirements.txt`
+ Pipfile: the replacement for `requirements.txt`
 ===============================================
 
 ``Pipfile`` and its sister ``Pipfile.lock`` are designed as a proposed replacement for an existing format: `pip`_'s ``requirements.txt`` file.
